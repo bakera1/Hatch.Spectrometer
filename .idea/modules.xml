@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hatch.Spectrometer.iml" filepath="$PROJECT_DIR$/.idea/Hatch.Spectrometer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Hatch.Filter/.idea/HatchFilter.iml" filepath="$PROJECT_DIR$/../Hatch.Filter/.idea/HatchFilter.iml" />
+    </modules>
+  </component>
+</project>
